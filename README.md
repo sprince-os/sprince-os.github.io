@@ -1,2 +1,2 @@
-# sprince-os.github.io
-Geralds Website
+# geraldspace.me
+Gerald's Space
